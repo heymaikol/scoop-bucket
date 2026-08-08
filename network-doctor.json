@@ -1,12 +1,12 @@
 {
-    "version": "1.10.7",
+    "version": "1.10.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/heymaikol/network-doctor/releases/download/v1.10.7/netdoc_1.10.7_windows_amd64.zip",
+            "url": "https://github.com/heymaikol/network-doctor/releases/download/v1.10.8/netdoc_1.10.8_windows_amd64.zip",
             "bin": [
                 "netdoc.exe"
             ],
-            "hash": "9128e262324500cb0ecde11bcbb4c207d7db326d7405a7ec329adcfa385745c0"
+            "hash": "0d0b8058171c0d71f07bdda4055747f93c7173133084a939e97dfe56e19c3edb"
         }
     },
     "homepage": "https://github.com/heymaikol/network-doctor",
