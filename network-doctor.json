@@ -1,22 +1,22 @@
 {
-    "version": "1.15.2",
+    "version": "1.16.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/heymaikol/network-doctor/releases/download/v1.15.2/netdoc_1.15.2_windows_amd64.zip",
+            "url": "https://github.com/heymaikol/network-doctor/releases/download/v1.16.0/netdoc_1.16.0_windows_amd64.zip",
             "bin": [
                 "netdoc.exe"
             ],
-            "hash": "5ce65fd3acc11845a1d6b092cee21b74f9b2b174ea457aa9e2dbfcd0ecab476d"
+            "hash": "096477bd27f70ff537e2e83521814d11a5e1fd8b8703c24ca3ad1665724c4464"
         },
         "arm64": {
-            "url": "https://github.com/heymaikol/network-doctor/releases/download/v1.15.2/netdoc_1.15.2_windows_arm64.zip",
+            "url": "https://github.com/heymaikol/network-doctor/releases/download/v1.16.0/netdoc_1.16.0_windows_arm64.zip",
             "bin": [
                 "netdoc.exe"
             ],
-            "hash": "8a1c66bc8060b64aa753437645f538bec5321bf587bdc1652b274ae8dd4a84f7"
+            "hash": "87fe417293e2613f4540f203c2fa3a002b28f934a6b4af69f1e51e4529d277e3"
         }
     },
     "homepage": "https://heymaikol.github.io/network-doctor/",
     "license": "Apache-2.0",
-    "description": "Terminal UI that diagnoses network connectivity and explains where the connection breaks"
+    "description": "Terminal UI that diagnoses network connectivity and names the layer where the connection breaks"
 }
